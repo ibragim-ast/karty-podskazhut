@@ -10,7 +10,7 @@
 ## Запуск приложения
 
 - Склонируйте репозиторий с помощью команды в терминале `git clone https://github.com/ibragim-ast/karty-podskazhut.git`
-- Запустите приложение с помощью команды расширения VS Code 'Live Server'
+- Запустите приложение с помощью расширения VS Code 'Live Server'
 
 ## Ссылки
 
